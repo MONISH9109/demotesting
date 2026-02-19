@@ -1,2 +1,2 @@
 # demotesting
-this repo if for testing purpose
+this repo if for testing purpose.
